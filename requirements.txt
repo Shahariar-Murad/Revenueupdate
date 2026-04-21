@@ -4,3 +4,4 @@ numpy
 openpyxl
 xlsxwriter
 altair<5
+pillow>=11.0.0

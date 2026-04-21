@@ -1,6 +1,6 @@
 streamlit==1.36.0
-altair==4.2.2
 pandas
 numpy
 openpyxl
 xlsxwriter
+altair<5
